@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+nav {
+    background: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#app {
+    padding: 20px;
+}
+
+#loading {
+    display: none;
+    padding: 20px;
+    font-weight: bold;
+}
